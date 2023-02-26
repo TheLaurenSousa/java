@@ -16,8 +16,3 @@ public class Exceptions {
         }
     }
 }
-
-
-// Change the program above to utilize exception handling to print out the error messages, 
-// the index of the ArrayList where the error occurred, and the value of the object that triggered the error. 
-// The program should continue after printing this to the console.
